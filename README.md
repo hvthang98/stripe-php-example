@@ -1,4 +1,4 @@
-#Stripe PHP Example
+# Stripe PHP Example
 Checkout Stripe example used to PHP 
 Document: https://stripe.com/docs/api/checkout/sessions/create
 ## Requirements
